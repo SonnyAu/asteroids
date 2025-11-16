@@ -1,0 +1,10 @@
+*.jsonl
+game_state.jsonl
+.venv/
+**/venv/
+**/.venv/
+# Bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
